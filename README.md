@@ -2,7 +2,7 @@
 
 
 # About Me
-- 👨🏽‍💻 I'm Lucas, working as a Mobile Engineer at Jobble
+- 👨🏽‍💻 I'm Lucas, a Full Stack developer with strong focus on mobile applications <!-- working as a Mobile Engineer at Jobble !-->
 - 💼 I'm a React Native developer, but also have some backend experience
 - 📚 Currently learning about DevOps and it's tools: Docker, Kubernetes, Service Mesh, etc
 - 📖 Also learning a lot about native mobile techs, like Swift and Kotlin
